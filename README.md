@@ -1,4 +1,4 @@
 # Discord-Welcome
 Welcome!
 
-I'm Megan Bot! Hope you even our server!
+I'm Megan Bot! Hope you enjoy our server!
